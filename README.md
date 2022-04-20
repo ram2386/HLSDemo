@@ -8,7 +8,7 @@ A demo for playing M3U8 by AVPlayer in Swift which reading url from M3U8 file fo
 
 ## Usage
 - Setting the sample M3U8 url(http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8) to AVPlayer.
-- Use play() / pause() to playing / pause the player.  
+- Use play() / pause() for playing / pause the player.  
 - AVPlayer does not have "stop", just to pause it and set it to nil.  
 
 ## Note
